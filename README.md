@@ -3,7 +3,6 @@
      style="float: left; margin-right: 10px;"
      />
 
-
 <p style="text-align: center; font-size: 20px">
 Work in progress ...
 </p>
@@ -11,6 +10,7 @@ Work in progress ...
 ## Why another cheat sheet?
 
 There exists many available Python courses or cheat sheets on the web. But this one:
+
 - Focuses exclusively on **latest Python version** (currently: 3.12)
 - Is for **intermediate level**
 - Is a mix of a course and a cheat sheet (minimal explanations - with moe details for advanced concepts)
@@ -24,7 +24,6 @@ There exists many available Python courses or cheat sheets on the web. But this 
 - Unlike (most) websites or books, you can customize code snippets and make them yours, after having forked the project.
 - Code snippets can be directly executed. Don't trust the code comments to know the program output.
 - Possible 0-config by having an isolated installation in a dedicated Docker container (cf. below). It includes linting and type checking with Pylance, and auto-formatting with Black.
-
 
 ## How to use it yourself?
 
@@ -42,6 +41,7 @@ Since a cheat sheet is personal first, I don't expect new content to be proposed
 ## Roadmap
 
 **To check for content**
+
 - *See each sections for content to fill (in the title, or in TODO file)*
 - [ ] See [Python Cookbook Jupyter Notebook](https://github.com/acheamponge/Python-Cookbook-3rd-edition-JupyterNotebook-Code)
 - [ ] See [30 Helpful Python Snippets](https://morioh.com/a/271bc88c0100/30-helpful-python-snippets-you-should-learn-today)
@@ -49,11 +49,12 @@ Since a cheat sheet is personal first, I don't expect new content to be proposed
 - [ ] See [Nooby habits](https://www.youtube.com/watch?v=qUeud6DvOWI)
 
 **To Do (features)**
+
 - [ ] Clean "don't do this" syntax
 - [ ] Add screen presentation
 - [ ] Add internal cross references (for example for "comprehensions" because they can be at multiple places in the sheet)
 - [ ] Add a TOC to this file for easier access to sections
-- [ ] Use Ruff instead of Pylance (as soon as it's [compatible with Junyper](https://github.com/astral-sh/ruff/issues/5188))
+- [x] Use Ruff instead of Pylance (as soon as it's [compatible with Junyper](https://github.com/astral-sh/ruff/issues/5188))
 
 ## Inspiration
 
