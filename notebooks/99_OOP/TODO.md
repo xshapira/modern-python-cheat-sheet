@@ -26,7 +26,7 @@
     - Method Overriding, Operator Overloading
 4. **The `super()` Function**
     - Calling parent class methods
-  
+
 #### Chapter 4: Encapsulation and Abstraction
 1. **Access Modifiers**
     - Public, Private, and Protected attributes

@@ -1,6 +1,6 @@
 <img src="https://github.com/ddahan/modern-python-cheat-sheet/blob/main/resources/logo/logo.png?raw=true"
      alt="Logo"
-     style="float: left; margin-right: 10px;" 
+     style="float: left; margin-right: 10px;"
      />
 
 
