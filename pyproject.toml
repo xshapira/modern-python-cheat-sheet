@@ -10,7 +10,7 @@ python = "3.12.*"
 pydantic = "*"    # https://github.com/pydantic/pydantic
 
 [tool.poetry.group.dev.dependencies]
-ruff = "^0.3.7"
+ruff = "^0.4.0"
 ipdb = "*"      # https://github.com/gotcha/ipdb
 pytest = "*"    # https://github.com/pytest-dev/pytest
 ipykernel = "*" # https://github.com/ipython/ipykernel
